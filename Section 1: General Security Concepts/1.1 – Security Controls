@@ -1,1 +1,76 @@
+# 🔷 Security Control Categories
+
+## 1. Technical Controls
+Technology-based controls.  
+**Examples:** OS policies, firewalls, antivirus tools, access rules.
+
+## 2. Managerial Controls
+Policies and procedures created by management.  
+**Examples:** security policies, onboarding rules, standard operating procedures.
+
+## 3. Operational Controls
+Human-driven controls carried out by people.  
+**Examples:** security guards, training sessions, awareness posters.
+
+## 4. Physical Controls
+Controls that restrict physical access.  
+**Examples:** locks, fences, badge readers, guard shacks.
+
+
+---
+
+# 🔷 Control Types (and how they fit into the categories)
+
+## 🟦 Preventive Controls
+Stop or block an event before it happens.
+
+- Firewall rules → **Technical**  
+- Onboarding policies → **Managerial**  
+- Guard checking IDs → **Operational**  
+- Door locks → **Physical**
+
+
+## 🟪 Deterrent Controls
+Don’t stop the event, but discourage it.
+
+- Security splash screen → **Technical**  
+- Threat of demotion → **Managerial**  
+- Reception desk → **Operational**  
+- Warning signs → **Physical**
+
+
+## 🟩 Detective Controls
+Identify or alert when something happens.
+
+- System logs → **Technical**  
+- Reviewing login reports → **Managerial**  
+- Security patrols → **Operational**  
+- Motion detectors → **Physical**
+
+
+## 🟥 Corrective Controls
+Used after an event to fix or reduce impact.
+
+- Restore from backup → **Technical**  
+- Reporting policies → **Managerial**  
+- Contacting law enforcement → **Operational**  
+- Fire extinguisher → **Physical**
+
+
+## 🟨 Compensating Controls
+Temporary or alternative controls when the primary one isn’t available.
+
+- Firewall rule as workaround → **Technical**  
+- Separation of duties → **Managerial**  
+- Multiple guards → **Operational**  
+- Power generator → **Physical**
+
+
+## 🟧 Directive Controls
+Tell people what they *should* do (not very strong on their own).
+
+- Store sensitive data in encrypted folder → **Technical**  
+- Compliance policy → **Managerial**  
+- Security training → **Operational**  
+- “Authorized personnel only” sign → **Physical**
 
