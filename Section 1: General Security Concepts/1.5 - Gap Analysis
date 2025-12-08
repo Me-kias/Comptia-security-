@@ -1,0 +1,63 @@
+# 🔍 Gap Analysis in IT Security
+
+## **What is a Gap Analysis?**
+- Compares **where we are** vs **where we want to be**.  
+- Helps identify **security weaknesses** and plan improvements.  
+- Can be simple in concept but complex in practice.
+
+---
+
+## **Steps to Perform a Gap Analysis**
+
+### 1. Establish a Baseline
+- Provides a reference for desired security goals.  
+- Common baselines:
+  - **NIST SP 800-171 Rev 2** → Protecting Controlled Unclassified Information  
+  - **ISO/IEC 27001** → Information Security Management  
+  - Custom baselines specific to your organization  
+
+---
+
+### 2. Evaluate People & Processes
+- Check **skills and training** of staff  
+- Review **security policies and procedures**  
+- Assess how IT systems align with security goals  
+
+---
+
+### 3. Analyze Systems & Controls
+- Compare existing systems against baseline requirements  
+- Identify **weaknesses** and areas needing improvement  
+- Break broad areas (like access control) into individual tasks:
+  - User registration & deregistration  
+  - Privileged access management  
+  - Access reviews  
+
+---
+
+### 4. Create Gap Analysis Report
+- Document **current state vs desired state** for each objective  
+- Include a **roadmap** for improvement:
+  - Time & budget needed  
+  - Required equipment  
+  - Change control steps  
+
+---
+
+### 5. Example Reporting
+- Use **tables or charts** to summarize findings across locations:
+  - Green → Close to baseline  
+  - Yellow → Midway  
+  - Red → Needs significant improvement  
+
+- Prioritize improvements:
+  1. Red areas first  
+  2. Yellow areas next  
+  3. Green areas last  
+
+---
+
+## **Goal**
+- Provide a clear **plan to improve security posture**  
+- Ensure all locations, systems, and processes align with chosen baselines  
+- Document actionable recommendations for the organization
